@@ -1,0 +1,6 @@
+[submodule "ni-hyrax-js"]
+	path = ni-hyrax-js
+	url = git@github.com:Natural-Intelligence/ni-hyrax-js.git
+[submodule "rapido"]
+	path = rapido
+	url = git@github.com:Natural-Intelligence/rapido.git
