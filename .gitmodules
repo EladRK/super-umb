@@ -4,3 +4,6 @@
 [submodule "rapido"]
 	path = rapido
 	url = git@github.com:Natural-Intelligence/rapido.git
+[submodule "gameisRides"]
+	path = gameisRides
+	url = git@github.com:EladRK/gameisRides.git
